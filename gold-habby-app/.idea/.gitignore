@@ -1,0 +1,9 @@
+# Spring Boot specific ignored files
+target/       # Maven
+build/        # Gradle
+*.jar
+*.war
+
+# IDE specific
+.idea/
+*.iml

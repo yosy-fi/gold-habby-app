@@ -1,0 +1,17 @@
+# Common rules for both frontend and backend
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# IDE specific files and folders
+.idea/
+*.iml
+*.swp
+*.swo
+
+# Node modules (if applicable)
+node_modules/
